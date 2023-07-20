@@ -22,7 +22,11 @@
 
   ],
 
-  "whitelist": [],
+  "whitelist": [
+
+    "https://osu.place/e/osuplace2023.json"
+
+  ],
 
   "blacklist": []
 
