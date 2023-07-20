@@ -1,0 +1,29 @@
+{
+
+  "contact": "contect epsilonzolton on discord",
+
+  "templates": [
+
+    {
+
+      "name": "r/SatisfactoryGame template",
+
+      "sources": [
+
+        "https://media.discordapp.net/attachments/959803716523946017/960298560384032778/ficsit-2.png"
+
+      ],
+
+      "x": 215,
+
+      "y": 265
+
+    }
+
+  ],
+
+  "whitelist": [],
+
+  "blacklist": []
+
+}
