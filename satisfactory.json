@@ -1,33 +1,18 @@
 {
-
   "contact": "contect epsilonzolton on discord",
-
   "templates": [
-
     {
-
       "name": "r/SatisfactoryGame template",
-
       "sources": [
-
         "https://raw.githubusercontent.com/EpsilonZolton/SatisfactoryPlace2023/main/ficsit-2small.png"
-
       ],
-
       "x": 915,
-
       "y": 965
-
     }
-
   ],
-
   "whitelist": [
-
-    "https://osu.place/e/osuplace2023.json"
-
+    "name": "osuplace"
+    "url": "https://osu.place/e/osuplace2023.json"
   ],
-
   "blacklist": []
-
 }
