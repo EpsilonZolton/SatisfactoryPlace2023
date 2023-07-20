@@ -11,8 +11,10 @@
     }
   ],
   "whitelist": [
-    "name": "osuplace"
-    "url": "https://osu.place/e/osuplace2023.json"
-  ],
+    {
+      "name": "osuplace",
+      "url": "https://osu.place/e/osuplace2023.json"
+    }
+],
   "blacklist": []
 }
